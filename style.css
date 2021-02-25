@@ -1,0 +1,107 @@
+ body { 
+      background-image:url(images/nba2.gif); 
+       font-family: monospace;
+ }
+
+.container{
+    margin : 150px auto;
+    background-color:red;
+    height: 400px;
+    width : 700px;
+    border-radius: 5px;
+    position: relative;
+}
+
+.questions{
+    margin: 0 AUTO;
+    padding: 15px;
+    height: 30PX;
+    text-align: center;
+    border: 3px solid;
+     border-radius: 15px;
+}
+
+.ans {
+    margin-top: 20px;
+   display: inline-block;
+   text-align: center;
+   width: 135px;
+    border : 1px solid black;
+    border-radius: 5px;
+    padding : 15px;
+
+    
+}
+
+.ans:hover{
+    border: 3px solid black;
+    color :black;
+}
+
+.next{
+      width : 50px;
+    height : 60px;
+    border-radius: 5px;
+    font-weight: bolder;
+    background-color:blue;
+    margin-left: 650px;
+    
+}
+
+.next:hover{
+    border: 3px solid black;
+    color :black;
+}
+
+
+.img {
+     width : 200px;
+     height : 200px;
+     border-radius: 5px;
+     position: relative;
+     top:65px
+}
+
+.start{
+    background-color: red;
+    font-size:30px;
+    font-weight: bolder;
+    width:600px;
+    height:500px;
+    border : 2px solid lightgrey;
+    text-align: center;
+    color : lightgrey;
+     margin : 150px auto;
+    
+}
+
+.start:hover{
+    border: 3px solid black;
+    color : black;
+}
+
+.gameOver{
+     background-color: red;
+    font-size:30px;
+    font-weight: bolder;
+    width:600px;
+    height:500px;
+    border : 2px solid black ;
+    text-align: center;
+    color : black;
+     margin : 150px auto;
+}
+
+.score{
+     width : 50px;
+     height : 50px;
+     margin: auto;
+     margin-top: 200px;
+
+
+}
+
+h1{
+    position: relative;
+    top: 50px;
+}
