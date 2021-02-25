@@ -145,7 +145,7 @@ ansArray.forEach((eachEl) =>{
 			scoreUpdate()
 			alert("You're Right")
 		}else {
-		alert("wrong Try Again")
+		alert("Wrong Please Try Again")
 		}
 
 	})
